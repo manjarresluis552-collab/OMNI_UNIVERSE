@@ -22,8 +22,8 @@
 **Año de creación:** 2025  
 **Autor:** Jhonier Luis Manjarres Correa  
 **País:** Colombia  
-**Email de contacto:** [TU EMAIL AQUÍ]  
-**GitHub:** github.com/[TU USUARIO DE GITHUB AQUÍ]/OMNI_UNIVERSE  
+**Email de contacto:** manjarresluis552@gmail.com.  
+**GitHub:** github.com/manjarresluis552-collab/OMNI_UNIVERSE  
 **Naturaleza:** Lenguaje digital universal, sistema de conocimiento absoluto,
 motor de compresión universal, plataforma de desarrollo total  
 
@@ -242,9 +242,9 @@ por la licencia correspondiente.
 ## 12. CONTACTO Y LICENCIAS COMERCIALES
 
 Para adquirir licencias Pro o Enterprise:  
-**Plataforma oficial:** [TU DOMINIO AQUÍ].io *(próximamente)*  
-**GitHub:** github.com/[TU USUARIO DE GITHUB AQUÍ]/OMNI_UNIVERSE  
-**Email:** [TU EMAIL AQUÍ]  
+**Plataforma oficial:** calle 54 oeste 14 M k casa 16 yopal-casanare Colombia.io *(próximamente)*  
+**GitHub:** github.com/manjarresluis552-collab/OMNI_UNIVERSE  
+**Email:** manjarresluis552@gmail.com. 
 
 Para reportar violaciones de licencia:  
 Contactar directamente al autor a través de la plataforma oficial  
